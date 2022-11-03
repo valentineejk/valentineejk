@@ -1,7 +1,7 @@
 # 💫About Me :
 - 👋 Hi, I’m valentine
 - 👀 I’m interested in Frontend & Mobile  Development
-- 🌱 I’m currently learning Dart
+- 🌱 I’m currently learning Kotlin
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/valentineejk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valentineejk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentineejk/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/valentineejk) 
