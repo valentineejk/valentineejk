@@ -1,5 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
+import Mine from '../public/valed-611.JPEG'
 
 const Hero = () => {
     return (
@@ -7,8 +8,8 @@ const Hero = () => {
             <div className="hero min-h-screen bg-base-200">
                 <div className="hero-content flex-col lg:flex-row">
                     <Image
-
-                        src="/../public/valed-611.JPEG"
+                        alt="valentine"
+                        src={ Mine }
                         width={ 260 }
                         height={ 400 }
                         className="max-w-sm rounded-lg shadow-2xl"
