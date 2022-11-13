@@ -31,7 +31,7 @@ const Stack = () => {
 
                     { stack.map((stacks) => (
 
-                        <div className="w-16  shadow-sm rounded-[20px] shadow-purple-300 dark:shadow-purple-200 " key={ stacks.img }>
+                        <div className="sm:w-24 w-12 shadow-sm rounded-[20px] shadow-purple-300 dark:shadow-purple-200 " key={ stacks.img }>
                             <Image
                                 alt="valentine"
                                 src={ stacks.img }
