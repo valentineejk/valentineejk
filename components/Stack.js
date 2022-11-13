@@ -26,12 +26,12 @@ const Stack = () => {
 
             <div className=" grid  place-items-center h-56 " >
 
-                <h1 className="text-4xl font-bold">Tech Stack</h1>
-                <div div className="avatar grid grid-cols-3 sm:grid-cols-5 gap-4 place-content-center h-48">
+                <h1 className="text-4xl font-bold m-6">Tech Stack</h1>
+                <div div className="avatar grid grid-cols-4 sm:grid-cols-5 gap-4 place-content-center h-48">
 
-                    { stack.map((stacks => (
+                    { stack.map((stacks) => (
 
-                        <div className="w-24 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2  " key={ stacks.img }>
+                        <div className="w-24  shadow-sm rounded-[20px] dark:shadow-purple-200 " key={ stacks.img }>
                             <Image
                                 alt="valentine"
                                 src={ stacks.img }
@@ -40,7 +40,7 @@ const Stack = () => {
                             />
 
                         </div>
-                    ))) }
+                    )) }
                 </div >
 
 

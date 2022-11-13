@@ -13,6 +13,7 @@ export default function Home() {
     <div className="Container">
       <Hero />
       <Stack />
+      <Portfolio />
 
     </div>
   )
