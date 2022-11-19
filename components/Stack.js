@@ -23,9 +23,7 @@ const stack = [
 const Stack = () => {
     return (
         <div className="hero min-h-screen">
-
-            <div className=" grid  place-items-center h-56 " >
-
+            <div className=" grid place-items-center h-56 " >
                 <h1 className="text-4xl font-bold m-6  ">Tech Stack</h1>
                 <div div className="avatar grid grid-cols-4 sm:grid-cols-4 gap-4 place-content-center h-48 ">
 
