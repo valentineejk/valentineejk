@@ -17,7 +17,7 @@ const Hero = () => {
                 <div className="hero-content text-center text-neutral-content">
                     <div className="max-w-md">
                         <h1 className="mb-5 text-5xl font-bold " >Hello there</h1>
-                        <p className="mb-5">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
+                        <p className="mb-5">Highly dedicated Software developer with over 4+ years of experience in Frontend, mobile development, and UI / UX Design</p>
                         <div className="mockup-code shadow-sm shadow-purple-300 dark:shadow-purple-200 ">
                             <pre data-prefix="$"><code>npm i valentineejk</code></pre>
                             <pre data-prefix=">" className="text-warning"><code>installing...</code></pre>
