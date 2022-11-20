@@ -10,9 +10,9 @@ import Card from './Card'
 const Portfolio = () => {
     const port = [
         {
-            name: "GoalSetter App",
+            name: "GoalsApp",
             img: "https://i.ibb.co/N7Wrm5V/Goal-Setter-App.png",
-            desc: "Goal setting app",
+            desc: "A react app where each user can set goals and perform crud operations",
             tech1: "React",
             tech2: "Nodejs",
             tech3: "MongoDB",
@@ -21,27 +21,17 @@ const Portfolio = () => {
 
         },
         {
-            name: "GoalSetter App",
-            img: "https://i.ibb.co/N7Wrm5V/Goal-Setter-App.png",
-            desc: "Goal setting app",
+            name: "Space",
+            img: "https://freeimage.host/i/HHn7RK7",
+            desc: "Social Media App",
             tech1: "React",
-            tech2: "Nodejs",
-            tech3: "MongoDB",
-            tech4: "Redux",
-            link: "https://goalsetterapi1.herokuapp.com/"
+            tech2: "Firebase",
+            tech3: "yup",
+            tech4: "TypeScript",
+            link: "https://social-media-82aab.web.app/"
 
         },
-        {
-            name: "GoalSetter App",
-            img: "https://i.ibb.co/N7Wrm5V/Goal-Setter-App.png",
-            desc: "Goal setting app",
-            tech1: "React",
-            tech2: "Nodejs",
-            tech3: "MongoDB",
-            tech4: "Redux",
-            link: "https://goalsetterapi1.herokuapp.com/"
 
-        },
     ]
 
 
