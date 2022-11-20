@@ -12,14 +12,34 @@ const Portfolio = () => {
         {
             name: "GoalSetter App",
             img: "https://i.ibb.co/N7Wrm5V/Goal-Setter-App.png",
-            desc: "React | Nodejs | MongoDB | Redux",
+            desc: "Goal setting app",
+            tech1: "React",
+            tech2: "Nodejs",
+            tech3: "MongoDB",
+            tech4: "Redux",
             link: "https://goalsetterapi1.herokuapp.com/"
 
         },
         {
-            name: "mark",
-            img: React1,
-            desc: "smdsjk",
+            name: "GoalSetter App",
+            img: "https://i.ibb.co/N7Wrm5V/Goal-Setter-App.png",
+            desc: "Goal setting app",
+            tech1: "React",
+            tech2: "Nodejs",
+            tech3: "MongoDB",
+            tech4: "Redux",
+            link: "https://goalsetterapi1.herokuapp.com/"
+
+        },
+        {
+            name: "GoalSetter App",
+            img: "https://i.ibb.co/N7Wrm5V/Goal-Setter-App.png",
+            desc: "Goal setting app",
+            tech1: "React",
+            tech2: "Nodejs",
+            tech3: "MongoDB",
+            tech4: "Redux",
+            link: "https://goalsetterapi1.herokuapp.com/"
 
         },
     ]
@@ -27,7 +47,7 @@ const Portfolio = () => {
 
     return (
         <div>
-            <h1 className="text-4xl font-bold  text-center mb-16 ">Projects</h1>
+            <h1 className="text-4xl font-bold  text-center m-16 ">Projects</h1>
 
 
             <div className='grid grid-cols-1 sm:grid-cols-3 gap-4 place-content-center '>
@@ -36,7 +56,7 @@ const Portfolio = () => {
                     port.map((item) => (
                         <>
                             <div className='hero min-w-screen'>
-                                <Card key={ item.id } name={ item.name } img={ item.img } desc={ item.desc } link={ item.link } />
+                                <Card key={ item.id } name={ item.name } img={ item.img } desc={ item.desc } link={ item.link } tech1={ item.tech1 } tech2={ item.tech2 } tech3={ item.tech3 } tech4={ item.tech4 } />
                             </div>
                         </>
                     ))

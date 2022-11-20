@@ -2,6 +2,38 @@ import React from 'react'
 import Image from 'next/image'
 import Mine from '../public/valed-611.JPEG'
 import Code from './Code'
+import Stack from './Stack'
+import Flutter from '../public/flutter.svg'
+import React1 from '../public/React.svg'
+import Tw from '../public/tw.svg'
+import Firebase1 from '../public/firebase1.svg'
+import Mongo from '../public/mongo.svg'
+import Nodejs from '../public/nodejs.svg'
+import Expressjs from '../public/expressjs.svg'
+import Reduxjs from '../public/redux.svg'
+
+
+
+
+
+
+
+
+const stack = [
+    { img: Flutter },
+    { img: React1 },
+    { img: Tw },
+    { img: Firebase1 },
+    { img: Mongo },
+    { img: Nodejs },
+    { img: Expressjs },
+    { img: Reduxjs },
+
+
+
+
+
+]
 
 const Hero = () => {
 
@@ -11,23 +43,26 @@ const Hero = () => {
 
     }
     return (
-        <div>
-            <div className="hero min-h-screen " >
-                <div className="hero-overlay bg-opacity-60"></div>
-                <div className="hero-content text-center text-neutral-content">
-                    <div className="max-w-md">
-                        <h1 className="mb-5 text-5xl font-bold " >Hello there</h1>
-                        <p className="mb-5">Highly dedicated Software developer with over 4+ years of experience in Frontend, mobile development, and UI / UX Design</p>
-                        <div className="mockup-code shadow-sm shadow-purple-300 dark:shadow-purple-200 ">
-                            <pre data-prefix="$"><code>npm i valentineejk</code></pre>
-                            <pre data-prefix=">" className="text-warning"><code>installing...</code></pre>
-                            <pre data-prefix=">" className="text-success"><code>Done!</code></pre>
-                        </div>
-                        <button className="btn btn-primary m-6  shadow-sm shadow-purple-400 dark:shadow-purple-200 " onClick={ () => url() }>Resume</button>
+        <div className="hero  max-h-full sm:min-h-screen " >
+            <div className="hero-overlay bg-opacity-60"></div>
+            <div className="hero-content text-center text-neutral-content">
+                <div className="max-w-md">
+                    <h1 className="mb-5 text-5xl font-bold " >Hello there</h1>
+                    <p className="mb-5">Highly dedicated Software developer with over 4+ years of experience in Frontend, mobile development, and UI / UX Design</p>
+                    <div className="mockup-code shadow-xl ">
+                        <pre data-prefix="$"><code>npm i valentineejk</code></pre>
+                        <pre data-prefix=">" className="text-warning"><code>installing...</code></pre>
+                        <pre data-prefix=">" className="text-success"><code>Done!</code></pre>
                     </div>
+
+
+
+                    <button className="btn btn-primary m-6  shadow-xl " onClick={ () => url() }>Resume</button>
                 </div>
             </div>
         </div>
+
+
 
     )
 }
