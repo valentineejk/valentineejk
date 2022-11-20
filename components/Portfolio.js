@@ -22,7 +22,7 @@ const Portfolio = () => {
         },
         {
             name: "Space",
-            img: "https://freeimage.host/i/HHn7RK7",
+            img: "https://iili.io/HHn7RK7.png",
             desc: "Social Media App",
             tech1: "React",
             tech2: "Firebase",
