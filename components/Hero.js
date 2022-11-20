@@ -49,7 +49,7 @@ const Hero = () => {
                 <div className="max-w-md">
                     <h1 className="mb-5 text-5xl font-bold " >Hello there</h1>
                     <p className="mb-5">Highly dedicated Software developer with over 4+ years of experience in Frontend, mobile development, and UI / UX Design</p>
-                    <div className="mockup-code shadow-xl ">
+                    <div className="mockup-code shadow-xl dark:shadow-green-600 ">
                         <pre data-prefix="$"><code>npm i valentineejk</code></pre>
                         <pre data-prefix=">" className="text-warning"><code>installing...</code></pre>
                         <pre data-prefix=">" className="text-success"><code>Done!</code></pre>
@@ -57,7 +57,7 @@ const Hero = () => {
 
 
 
-                    <button className="btn btn-primary m-6  shadow-xl " onClick={ () => url() }>Resume</button>
+                    <button className="btn btn-primary m-6  shadow-xl dark:shadow-green-600" onClick={ () => url() }>Resume</button>
                 </div>
             </div>
         </div>

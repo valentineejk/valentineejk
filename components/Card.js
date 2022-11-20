@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 const Card = ({ img, desc, name, link, tech1, tech2, tech3, tech4 }) => {
     return (
-        <div className="card w-86 sm:w-96 bg-base-100 shadow-xl m-6">
+        <div className="card w-86 sm:w-96 bg-base-100 shadow-xl m-6 dark:shadow-green-600">
             <figure>
                 <Image
                     alt="prooject"
