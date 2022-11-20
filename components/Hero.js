@@ -47,7 +47,7 @@ const Hero = () => {
             <div className="hero-overlay bg-opacity-60"></div>
             <div className="hero-content text-center text-neutral-content">
                 <div className="max-w-md">
-                    <h1 className="mb-5 text-5xl font-bold " >Hello there</h1>
+                    <h1 className="mb-5 text-5xl font-bold mt-16" >Hello there</h1>
                     <p className="mb-5">Highly dedicated Software developer with over 4+ years of experience in Frontend, mobile development, and UI / UX Design</p>
                     <div className="mockup-code shadow-xl dark:shadow-green-600 ">
                         <pre data-prefix="$"><code>npm i valentineejk</code></pre>
