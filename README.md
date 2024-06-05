@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm valentineejk</h1>
-<h3 align="center">A passionate software developer from Nigeria</h3>
+<h3 align="center">A passionate software Engineer from Nigeria</h3>
 
 <p align="left"> <a href="https://twitter.com/valentineejk" target="blank"><img src="https://img.shields.io/twitter/follow/valentineejk?logo=twitter&style=for-the-badge" alt="valentineejk" /></a> </p>
 
-- 🔭 I’m currently working on **rille**
+- 🔭 I’m currently working on **frelo**
 
-- 🌱 I’m currently learning **golang, AI**
+- 🌱 I’m currently learning **Rust, Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://valentineejk.github.io/valentineejk/](https://valentineejk.github.io/valentineejk/)
 
-- 💬 Ask me about **SwiftUI, react and golang**
+- 💬 Ask me about **SwiftUI, React Native and golang**
 
 - 📫 How to reach me **valentineejk@icloud.com**
 
