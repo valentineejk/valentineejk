@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **valentineejk@icloud.com**
 
-- 📄 Know about my experiences ([https://docs.google.com/document/d/1sIinvSpaVnDB8pfyyPEnMpXGGPPwyilOUvbIwTqvTP8/edit?usp=sharing])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
