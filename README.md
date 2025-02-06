@@ -17,7 +17,7 @@
 
  🤝 I’m looking for help with **golang projects**
 
-💬 Ask me about **Golang, Python, Rust & React Native Expo**
+💬 Ask me about **Golang, Rust & React Native Expo**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
