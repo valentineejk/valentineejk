@@ -41,7 +41,7 @@
 <br/>
 <div align="center">
     
-<img src="https://skillicons.dev/icons?i=golang,typescript,react,rust,nodejs,python,solidity" width={100}/><br>
+<img src="https://skillicons.dev/icons?i=golang,java,springboot,typescript,rust,solana" width={100}/><br>
 </div>
 
 <br/>
