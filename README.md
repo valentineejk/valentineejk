@@ -13,10 +13,6 @@
  
  🔭 I’m currently working on **rille**
  
- 🌱 I’m currently learning **Rust**
-
- 🤝 I’m looking for help with **golang projects**
-
 💬 Ask me about **Golang, Rust & React Native Expo**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
@@ -24,13 +20,13 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:valentineejk@gmail.com">
+  <a href="mailto:valentinerobsn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/valentineejk" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://working-beanie-8bb.notion.site/Valentine-Portfolio-37d0f844d9ab427383ddef91e49bb41c" target="_blank">
+  <a href="https://valentineejk.dev" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
