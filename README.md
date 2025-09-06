@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     
-<img src="https://skillicons.dev/icons?i=golang,rust,java,spring,typescript,react" width={100}/><br>
+<img src="https://skillicons.dev/icons?i=golang,rust,swift,typescript" width={100}/><br>
 </div>
 
 <br/>
